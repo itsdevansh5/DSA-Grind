@@ -7,6 +7,7 @@
 - basics
 - two_pointers&sliding_window
 - linkedlists
+- ModularArithmetic
 - monotonic_Queue
 - queues
 - structures

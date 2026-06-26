@@ -2,20 +2,22 @@
 
 ## Concepts covered:
 
-- hashing
-- Subarray_Substring_problems
-- basics
-- two_pointers&sliding_window
 - Binary_Search
 - linkedlists
-- ModularArithmetic
-- monotonic_Queue
-- queues
-- structures
-- stacks
-- charactersandstrings
-- stl
-- searchingandsorting
+- inplace_modification
 - OOPS
-- patterns
+- ModularArithmetic
+- recursion
+- two_pointers&sliding_window
+- queues
+- hashing
+- Subarray_Substring_problems
+- searchingandsorting
+- stl
 - metahackercup25
+- patterns
+- stacks
+- monotonic_Queue
+- basics
+- charactersandstrings
+- structures

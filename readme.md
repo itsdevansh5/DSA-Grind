@@ -18,6 +18,7 @@
 - metahackercup25
 - stacks
 - 0181-employees-earning-more-than-their-managers
+- 1979-find-greatest-common-divisor-of-array
 - structures
 - Subarray_Substring_problems
 - ModularArithmetic

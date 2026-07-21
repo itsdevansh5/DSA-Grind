@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
+## String
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->

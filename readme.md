@@ -8,6 +8,7 @@
 - linkedlists
 - searchingandsorting
 - recursion
+- 1071-greatest-common-divisor-of-strings
 - 2807-insert-greatest-common-divisors-in-linked-list
 - two_pointers&sliding_window
 - patterns

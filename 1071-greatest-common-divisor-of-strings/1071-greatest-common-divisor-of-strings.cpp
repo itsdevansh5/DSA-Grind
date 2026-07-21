@@ -6,7 +6,7 @@ public:
         if(m<n) return gcdOfStrings(str2,str1);
         string res;
         for(int i=n;i>=1;i--){
-          if(n%i!=0 && m%i!=0) continue;
+          if(n%i!=0 || m%i!=0) continue;
           int a1=n/i;
           int a2=m/i;
           string part=str2.substr(0,i);

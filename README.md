@@ -8,9 +8,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Array
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

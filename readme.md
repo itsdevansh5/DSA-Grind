@@ -2,26 +2,27 @@
 
 ## Concepts covered:
 
-- stl
-- Binary_Search
-- hashing
-- linkedlists
-- searchingandsorting
-- recursion
-- 1071-greatest-common-divisor-of-strings
-- 2807-insert-greatest-common-divisors-in-linked-list
-- two_pointers&sliding_window
-- patterns
 - monotonic_Queue
+- stl
 - OOPS
+- Binary_Search
+- two_pointers&sliding_window
+- linkedlists
+- 2807-insert-greatest-common-divisors-in-linked-list
+- 3536-maximum-product-of-two-digits
+- patterns
+- Subarray_Substring_problems
+- hashing
+- 1071-greatest-common-divisor-of-strings
+- searchingandsorting
 - inplace_modification
-- charactersandstrings
-- queues
-- metahackercup25
-- stacks
 - 0181-employees-earning-more-than-their-managers
 - 1979-find-greatest-common-divisor-of-array
-- structures
-- Subarray_Substring_problems
+- recursion
 - ModularArithmetic
+- structures
+- stacks
+- charactersandstrings
 - basics
+- queues
+- metahackercup25

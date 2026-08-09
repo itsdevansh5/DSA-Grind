@@ -17,6 +17,7 @@
 - searchingandsorting
 - inplace_modification
 - 0181-employees-earning-more-than-their-managers
+- 0070-climbing-stairs
 - 1979-find-greatest-common-divisor-of-array
 - recursion
 - ModularArithmetic

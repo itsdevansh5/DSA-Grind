@@ -14,6 +14,7 @@
 - searchingandsorting
 - 1979-find-greatest-common-divisor-of-array
 - structures
+- 3069-distribute-elements-into-two-arrays-i
 - stacks
 - 0181-employees-earning-more-than-their-managers
 - 1071-greatest-common-divisor-of-strings

@@ -1,7 +1,7 @@
 class Solution {
 public:
-    long long sum(int n){
-      long long prod=1;
+    int sum(int n){
+      int prod=1;
       int add=0;
       while(n>0){
         prod*=(n%10);
@@ -13,7 +13,7 @@ public:
 
     }
     bool checkDivisibility(int n) {
-        long long s=sum(n);
+        int s=sum(n);
         return n%s==0;
     }
 };

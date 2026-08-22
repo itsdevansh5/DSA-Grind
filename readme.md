@@ -10,6 +10,7 @@
 - hashing
 - linkedlists
 - stl
+- 3622-check-divisibility-by-digit-sum-and-product
 - patterns
 - searchingandsorting
 - 1979-find-greatest-common-divisor-of-array

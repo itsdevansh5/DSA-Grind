@@ -14,7 +14,7 @@ public:
     }
     long long countIntersectingIntervals(vector<vector<int>>& intervals) {
         std::sort(intervals.begin(),intervals.end(),[](
-          vector<int>&a,vector<int>&b){return a[0]<b[0];}
+         const vector<int>&a,const vector<int>&b){return a[0]<b[0];}
         );
 
         int n = intervals.size();

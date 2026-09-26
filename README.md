@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |

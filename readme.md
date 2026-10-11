@@ -14,6 +14,7 @@
 - charactersandstrings
 - patterns
 - ModularArithmetic
+- 2778-sum-of-squares-of-special-elements
 - inplace_modification
 - 0181-employees-earning-more-than-their-managers
 - stl

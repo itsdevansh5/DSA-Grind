@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->

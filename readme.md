@@ -27,6 +27,7 @@
 - Subarray_Substring_problems
 - hashing
 - searchingandsorting
+- 2913-subarrays-distinct-element-sum-of-squares-i
 - stacks
 - 4057-number-of-intersecting-interval-pairs-ii
 - metahackercup25

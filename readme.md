@@ -10,6 +10,7 @@
 - 0070-climbing-stairs
 - monotonic_Queue
 - OOPS
+- 0176-second-highest-salary
 - 3090-maximum-length-substring-with-two-occurrences
 - charactersandstrings
 - patterns

@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/itsdevansh5/DSA-grind/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/itsdevansh5/DSA-grind/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

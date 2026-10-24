@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/itsdevansh5/DSA-grind/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsdevansh5/DSA-grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/itsdevansh5/DSA-grind/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |

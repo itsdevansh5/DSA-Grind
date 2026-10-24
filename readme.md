@@ -30,6 +30,7 @@
 - 0176-second-highest-salary
 - linkedlists
 - 1807-evaluate-the-bracket-pairs-of-a-string
+- 2409-count-days-spent-together
 - patterns
 - 4057-number-of-intersecting-interval-pairs-ii
 - 2807-insert-greatest-common-divisors-in-linked-list

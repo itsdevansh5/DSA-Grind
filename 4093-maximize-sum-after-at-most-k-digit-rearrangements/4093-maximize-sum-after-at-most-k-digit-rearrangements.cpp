@@ -16,22 +16,22 @@ public:
     long long maximizeSum(vector<int>& nums, int k) {
       int n=nums.size();
       long long sum = accumulate(nums.begin(),nums.end(),0*1LL);
-      vector<vector<long long>>diff(n);
+      vector<long long>diff(n);
 
       for(int i=0;i<n;i++){
         long long r =newint(nums[i]);
         long long d = r-nums[i];
-        diff[i]={d,i};
+        diff[i]=d;
       }
 
       std::sort(diff.begin(),diff.end(),[](
-        const vector<long long>&a, const vector<long long>&b
+        long long a,long long b
       ){
-        return a[0]>b[0];
+        return a>b;
       });
 
       for(int i=0;i<k;i++){
-        sum+=diff[i][0];
+        sum+=diff[i];
       }
       return sum;
 

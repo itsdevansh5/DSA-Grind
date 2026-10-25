@@ -34,6 +34,7 @@
 - 2409-count-days-spent-together
 - patterns
 - 4057-number-of-intersecting-interval-pairs-ii
+- 0577-employee-bonus
 - 2807-insert-greatest-common-divisors-in-linked-list
 - charactersandstrings
 - metahackercup25

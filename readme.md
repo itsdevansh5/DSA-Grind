@@ -23,6 +23,7 @@
 - queues
 - two_pointers&sliding_window
 - recursion
+- 4092-binary-digit-score
 - Subarray_Substring_problems
 - searchingandsorting
 - monotonic_Queue

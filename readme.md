@@ -16,6 +16,7 @@
 - ModularArithmetic
 - structures
 - 2778-sum-of-squares-of-special-elements
+- 0184-department-highest-salary
 - stacks
 - 3536-maximum-product-of-two-digits
 - 2913-subarrays-distinct-element-sum-of-squares-i

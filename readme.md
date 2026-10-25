@@ -42,3 +42,4 @@
 - inplace_modification
 - 0182-duplicate-emails
 - 4056-number-of-intersecting-interval-pairs-i
+- 4093-maximize-sum-after-at-most-k-digit-rearrangements

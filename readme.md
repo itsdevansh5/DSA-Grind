@@ -4,6 +4,7 @@
 
 - OOPS
 - 0070-climbing-stairs
+- 4094-count-frequency-staircase-subarrays-i
 - 3090-maximum-length-substring-with-two-occurrences
 - basics
 - 1979-find-greatest-common-divisor-of-array

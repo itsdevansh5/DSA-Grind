@@ -12,6 +12,7 @@
 - 4056-number-of-intersecting-interval-pairs-i
 - linkedlists
 - inplace_modification
+- 0462-minimum-moves-to-equal-array-elements-ii
 - ModularArithmetic
 - charactersandstrings
 - basics

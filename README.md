@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itsdevansh5/DSA-grind/tree/master/0070-climbing-stairs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/itsdevansh5/DSA-grind/tree/master/2409-count-days-spent-together) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/itsdevansh5/DSA-grind/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/itsdevansh5/DSA-grind/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |

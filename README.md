@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/itsdevansh5/DSA-grind/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/itsdevansh5/DSA-grind/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/itsdevansh5/DSA-grind/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/itsdevansh5/DSA-grind/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/itsdevansh5/DSA-grind/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting

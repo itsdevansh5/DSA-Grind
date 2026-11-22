@@ -3,6 +3,7 @@
 ## Concepts covered:
 
 - Binary_Search
+- 2124-check-if-all-as-appears-before-all-bs
 - linkedlists
 - 3622-check-divisibility-by-digit-sum-and-product
 - 0181-employees-earning-more-than-their-managers

@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/itsdevansh5/DSA-grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/itsdevansh5/DSA-grind/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/itsdevansh5/DSA-grind/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3360-stone-removal-game](https://github.com/itsdevansh5/DSA-grind/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/itsdevansh5/DSA-grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/itsdevansh5/DSA-grind/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/itsdevansh5/DSA-grind/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/itsdevansh5/DSA-grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/itsdevansh5/DSA-grind/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |

@@ -16,6 +16,7 @@
 - 4057-number-of-intersecting-interval-pairs-ii
 - 0175-combine-two-tables
 - 2913-subarrays-distinct-element-sum-of-squares-i
+- 3360-stone-removal-game
 - 3736-minimum-moves-to-equal-array-elements-iii
 - Subarray_Substring_problems
 - monotonic_Queue
